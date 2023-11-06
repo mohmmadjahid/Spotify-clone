@@ -1,2 +1,2 @@
 #spotify clone
-this project created by mohmmad jahid
+this project created by mohmmad jahid.

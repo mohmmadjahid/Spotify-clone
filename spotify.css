@@ -138,7 +138,7 @@ a{
 }
 .nav-item{
     margin-right: 1rem;
-}
+}    
 @media (max-width:1000px){
     .hide{
         display: none;
@@ -203,14 +203,6 @@ a{
     font-size: 0.6rem;
     padding-bottom: 1.5rem;
 }
-
-
-
-
-
-
-
-
 
 
 .album img{
